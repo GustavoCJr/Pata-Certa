@@ -25,9 +25,3 @@ De acordo com a organização atual do repositório:
 - [x] **Sistema de Adoção:** Visualização detalhada de pets disponíveis.
 - [x] **Interface Responsiva:** Estilização global para diferentes dispositivos.
 - [ ] **Filtros Avançados:** Busca por espécie, porte ou localização (Em desenvolvimento).
-
-## 🔧 Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/GustavoCJr/Pata-Certa.git](https://github.com/GustavoCJr/Pata-Certa.git)
